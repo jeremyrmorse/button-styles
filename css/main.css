@@ -22,3 +22,8 @@ div {
   list-style-type: none;
   padding: .5em .75em;
 }
+
+.btn-subtle {
+  color: #fff;
+  background-color: #ccc;
+}

@@ -35,7 +35,7 @@ div {
 .btn-subtle:hover {
   color: #fff;
   background-color: #666;
-  border:#666;
+  border: #666;
 }
 
 .btn-small {
@@ -64,5 +64,5 @@ div {
 
 .btn-warning:hover {
   color: #fff;
-  background-color: #933
+  background-color: #933;
 }

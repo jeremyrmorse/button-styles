@@ -27,3 +27,9 @@ div {
   color: #fff;
   background-color: #ccc;
 }
+
+.btn-subtle:hover {
+  color: #fff;
+  background-color: #666
+  border:#666
+}

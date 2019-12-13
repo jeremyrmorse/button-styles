@@ -49,6 +49,9 @@ div {
 .btn-ghost {
   color: #333;
   background-color: #fff;
+}
+
+.ghost-border {
   border: solid #000;
 }
 

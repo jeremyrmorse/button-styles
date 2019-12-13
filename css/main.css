@@ -45,3 +45,14 @@ div {
 .btn-big {
   font-size: 1.5rem;
 }
+
+.btn-ghost {
+  color: #333;
+  background-color: #fff;
+}
+
+.btn-ghost:hover {
+  color: #fff;
+  background-color: #666;
+  border: #666;
+}

@@ -56,3 +56,13 @@ div {
   background-color: #666;
   border: #666;
 }
+
+.btn-warning {
+  color: #fff;
+  background-color: #933;
+}
+
+.btn-warning:hover {
+  color: #fff;
+  background-color: #933
+}

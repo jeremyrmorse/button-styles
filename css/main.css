@@ -33,3 +33,11 @@ div {
   background-color: #666
   border:#666
 }
+
+.btn-small {
+  font-size .875rem;
+}
+
+.btn-big {
+  font-size: 1.5rem;
+}
